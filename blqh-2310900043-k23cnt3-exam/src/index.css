@@ -1,0 +1,32 @@
+.container {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: deepskyblue;
+  color: black;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: white;
+}
